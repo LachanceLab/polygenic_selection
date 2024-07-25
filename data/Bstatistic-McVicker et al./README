@@ -1,0 +1,7 @@
+Here is the B statistic liftover to hg19 
+The format is the usual (chr from to Bstat*1000).
+<chr> <start> <end> <B-score>
+range = 0-1000; smaller values implying higher selective
+constraint in the region 
+
+(Liftover data received from Moorjani Lab at UC Berkeley)
